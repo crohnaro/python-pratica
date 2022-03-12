@@ -3,7 +3,7 @@ entre si"""
 
 import random
 lista = []
-while len(lista_ < 15:
+while len(lista) < 15:
     x = random.randint(10 , 100)
           if x not in lista:
           lista.append(x)
